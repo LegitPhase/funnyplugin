@@ -1,0 +1,5 @@
+name: NoPlayers
+version: '${project.version}'
+main: fr.legit.Main
+api-version: '1.20'
+load: STARTUP
